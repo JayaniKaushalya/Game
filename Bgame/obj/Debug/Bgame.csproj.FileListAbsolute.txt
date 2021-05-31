@@ -1,0 +1,9 @@
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\bin\Debug\Bgame.exe.config
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\bin\Debug\Bgame.exe
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\bin\Debug\Bgame.pdb
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\obj\Debug\Bgame.csprojResolveAssemblyReference.cache
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\obj\Debug\Bgame.Form1.resources
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\obj\Debug\Bgame.Properties.Resources.resources
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\obj\Debug\Bgame.csproj.GenerateResource.Cache
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\obj\Debug\Bgame.exe
+c:\users\kaush\onedrive\documents\visual studio 2015\Projects\Bgame\Bgame\obj\Debug\Bgame.pdb
